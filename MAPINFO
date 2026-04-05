@@ -1,0 +1,22 @@
+
+addDefaultMap
+{
+    pixelRatio = 1.0
+    lightMode = 3
+}
+
+
+map EMapTest lookup "EMapTest"
+{
+    levelNum = 1
+    /* next = "C1M2" */
+    music = "D_EMAPTEST.wav"
+}
+
+clearEpisodes
+
+episode EMapTest
+{
+   name = "Test"
+}
+

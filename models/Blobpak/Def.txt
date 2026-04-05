@@ -1,0 +1,26 @@
+
+Model Blobpak
+{
+	Path "models/Blobpak"
+
+	Model 0 "jetpakBlobIdle.obj"
+	Skin 0 "Blobpak.jpg"
+
+	Scale 1.4 1.4 1.4
+	AngleOffset 4
+
+	FrameIndex M001 A 0 0
+}
+
+Model Blobpak
+{
+	Path "models/Blobpak"
+
+	Model 0 "jetpakBlobIdle.obj"
+	Skin 0 "Blobpakow.jpg"
+
+	Scale 1.4 1.4 1.4
+	AngleOffset 4
+
+	FrameIndex M001 B 0 0
+}
