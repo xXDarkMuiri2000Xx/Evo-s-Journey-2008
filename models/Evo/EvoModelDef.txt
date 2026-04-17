@@ -11,3 +11,68 @@ Model Evo
 
 	FrameIndex EPLY A 0 0
 }
+
+
+Model Fist
+{
+	Path "models/Evo"
+
+	Model 0 "framechop1.obj"
+	Skin 0 "Evo.lmp"
+
+	Offset -100 -54 -48
+	Rotation-Center 0 0 0
+
+	Scale 2.5 2.5 2.5
+	AngleOffset 20
+
+	FrameIndex PUNG A 0 0
+}
+
+Model Fist
+{
+	Path "models/Evo"
+
+	Model 0 "framechop2.obj"
+	Skin 0 "Evo.lmp"
+
+	Offset -95 -64 -48
+	Rotation-Center 0 0 0
+
+	Scale 2.5 2.5 2.5
+	AngleOffset 20
+
+	FrameIndex PUNG B 0 0
+}
+
+Model Fist
+{
+	Path "models/Evo"
+
+	Model 0 "framechop3.obj"
+	Skin 0 "Evo.lmp"
+
+	Offset -95 -74 -48
+	Rotation-Center 0 0 0
+
+	Scale 2.5 2.5 2.5
+	AngleOffset 20
+
+	FrameIndex PUNG C 0 0
+}
+
+Model Fist
+{
+	Path "models/Evo"
+
+	Model 0 "framechop4.obj"
+	Skin 0 "Evo.lmp"
+
+	Offset -95 -84 -48
+	Rotation-Center 0 0 0
+
+	Scale 2.5 2.5 2.5
+	AngleOffset 20
+
+	FrameIndex PUNG D 0 0
+}
