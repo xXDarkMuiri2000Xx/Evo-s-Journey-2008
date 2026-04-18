@@ -1,0 +1,16 @@
+
+Model Pistol
+{
+	Path "models/Evo"
+
+	Model 0 "BBllobwweepp1blend.obj"
+	Skin 0 "Evo.lmp"
+
+	Offset -15 -50 -60
+	Rotation-Center 0 0 0
+
+	Scale 20 20 20
+	AngleOffset 50
+
+	FrameIndex PISG A 0 0
+}
