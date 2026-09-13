@@ -12,21 +12,3 @@ enjoy :]
 
 
 Muiri-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "VideoGame",
-  "name": "Evo's journey 2008 [Version II]",
-  "url": "https://gamejolt.com",
-  "author": {
-    "@type": "Person",
-    "name": "xXDarkMuiri2000Xx"
-  },
-  "genre": "Adventure",
-  "gameEngine": "Uzdoom",
-  "applicationCategory": "Game",
-  "operatingSystem": "Windows",
-  "sameAs": "https://github.com"
-}
-</script>
