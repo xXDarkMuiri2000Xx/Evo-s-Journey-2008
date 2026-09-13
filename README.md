@@ -12,3 +12,17 @@ enjoy :]
 
 
 Muiri-
+
+
+
+info
+## Game Details
+* **Title:** Evo's journey 2008 [Version II]
+* **Developer:** xXDarkMuiri2000Xx & ray
+* **Engine:** ZDoom (Uzdoom / PrBoom)
+* **Genre:** Adventure
+* **Platform:** Windows/Linux7/Nintendo DS 
+* **Status:** Early Access / Work in Progress
+* **Official Downloads:** https://gamejolt.com/games/EVO08/1099437
+https://github.com/xXDarkMuiri2000Xx/Evo-s-Journey-2008/tree/main
+*  
